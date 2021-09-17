@@ -11,7 +11,7 @@ This is supposed to be used with the Arduinio ESP8266 Wifi board to:
 
 
 ![circuit](https://user-images.githubusercontent.com/48888771/133632875-ac814622-df34-4beb-b090-c3be799613d5.png)
-
+The diodes is the wrong way around. Sorry! I realised too late!
 
 # How to use this:
 1. Copy the code to your Arduino IDE.
